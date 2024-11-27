@@ -1,6 +1,6 @@
 ### Installation
 ```r
-devtools::install_github("Zaoqu-Liu/LRAcluster")
+devtools::install_github("Zaoqu-Liu/RGCCA")
 ```
 
 ### Citation
