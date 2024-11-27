@@ -1,4 +1,9 @@
-## Citations
+### Installation
+```r
+devtools::install_github("Zaoqu-Liu/LRAcluster")
+```
+
+### Citation
 Tenenhaus et al. Variable Selection For Generalized Canonical Correlation Analysis. 2013. Submitted to Biostatistics.
 
 Tenenhaus M., Tenenhaus A. and Groenen PJF (2017), Regularized generalized canonical correlation analysis: A framework for sequential multiblock component methods, Psychometrika, in press
