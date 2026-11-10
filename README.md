@@ -1,3 +1,7 @@
+### Provenance
+
+This repository is an **unmodified copy of RGCCA 2.1** (published on CRAN 2017-01-22; authors Arthur Tenenhaus and Vincent Guillemot; license GPL (>= 2)), kept here so that [MOFS](https://github.com/Zaoqu-Liu/MOFS) can install this version with `devtools::install_github()`. Every file except this README is identical to `RGCCA_2.1.tar.gz` from the [CRAN archive](https://cran.r-project.org/src/contrib/Archive/RGCCA/) (checked with `diff -r`). The current CRAN release (3.x) is a different version; for general use of RGCCA install it from [CRAN](https://CRAN.R-project.org/package=RGCCA) instead.
+
 ### Installation
 ```r
 devtools::install_github("Zaoqu-Liu/RGCCA")
